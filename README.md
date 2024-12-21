@@ -18,7 +18,7 @@
 
 <h1 align="center">hey there 👋</h1>
 
-<p align="center">My name is Sumudu and I'm an IT Undergraduate, from Sri Lanka</p>
+<p align="center">My name is Sumudu and I'm an IT Undergraduate, from Sri Lanka.</p>
 
 ###
 
