@@ -8,7 +8,7 @@ I am a budding developer with a keen interest in software development and techno
 
 ## Skills & Technologies
 
-html,css,php,mysql,figma,react,mongodb,github,bootstrap,nodejs,java,js,pycharm,express,kotlin,laravel
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="5%"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="5%"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" width="5%"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="5%"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="5%"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="5%"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="5%"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="5%"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" width="5%"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="5%"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" width="5%"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="5%"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width="5%"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" width="5%"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Light.svg" width="5%"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" width="5%">
 
 ## Top Projects
 
