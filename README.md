@@ -37,4 +37,4 @@ Currently, I do not have any blog posts. Stay tuned for future updates!
 
 ## Connect with Me
 
-{"linkedin":"https://www.linkedin.com/in/sumudu-wijeratne-23a76a249/"}
+## linkedin: https://www.linkedin.com/in/sumudu-wijeratne-23a76a249/
