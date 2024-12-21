@@ -1,55 +1,40 @@
+## Hi there! 👋
 
+I'm **Sumudu Wijeratne**, a passionate developer exploring the world of programming and technology. I'm excited to share my journey and projects with you!
 
-###
+## About Me
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+I am a budding developer with a keen interest in software development and technology. Currently, I am focused on building my skills and contributing to exciting projects. Although I'm just getting started, I'm enthusiastic about learning new languages and technologies.
 
-###
+## Skills & Technologies
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+html,css,php,mysql,figma,react,mongodb,github,bootstrap,nodejs,java,js,pycharm,express,kotlin,laravel
 
-###
+## Top Projects
 
-<h1 align="center">hey there 👋</h1>
+- [**Sumudu01**](https://github.com/Sumudu01/Sumudu01) - Config files for my GitHub profile. 
+  ⭐ 0 Stars | 🏷️ Language: N/A
 
-<p align="center">My name is Sumudu and I'm an IT Undergraduate, from Sri Lanka.</p>
+## GitHub Stats
 
-###
+🌟 **Public Repositories:** 1  
+👥 **Followers:** 0  
+👤 **Following:** 0  
 
-<h2 align="center">About me</h2>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumudu01&show_icons=true&theme=radical)
 
-###
+## Recent Activity
 
-<p align="center">✨ Creating bugs since ...<br>📚 I'm currently learning New Frameworks<br>🎯 Goals: to be a Software Engineer<br>🎲 Fun fact: Crazy Coder</p>
+- Updated README.md in [Sumudu01](https://github.com/Sumudu01/Sumudu01)  
+- Created the repository [Sumudu01](https://github.com/Sumudu01/Sumudu01)  
+- Made multiple commits to enhance my profile's README.  
 
-###
+Feel free to check my GitHub profile for more updates!
 
-<h2 align="center">I code with</h2>
+## Latest Blog Posts
 
-###
+Currently, I do not have any blog posts. Stay tuned for future updates!
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
+## Connect with Me
 
-###
+{"linkedin":"https://www.linkedin.com/in/sumudu-wijeratne-23a76a249/"}
