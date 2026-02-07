@@ -17,7 +17,7 @@ I am a budding developer with a keen interest in software development and techno
 
 ## GitHub Stats
 
-🌟 **Public Repositories:** 1  
+🌟 **Public Repositories:** 14
 👥 **Followers:** 1  
 👤 **Following:** 0  
 
